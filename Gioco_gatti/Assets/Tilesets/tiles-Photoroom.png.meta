@@ -1,0 +1,2718 @@
+fileFormatVersion: 2
+guid: 20a4e6dea9c744b4d84ad4675073f940
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7460524973592444392
+    second: tiles-Photoroom_0
+  - first:
+      213: -7608294306983679099
+    second: tiles-Photoroom_1
+  - first:
+      213: 1358730367427080690
+    second: tiles-Photoroom_2
+  - first:
+      213: 2789627398151524107
+    second: tiles-Photoroom_3
+  - first:
+      213: -3052021806498081162
+    second: tiles-Photoroom_4
+  - first:
+      213: -8690629772438329517
+    second: tiles-Photoroom_5
+  - first:
+      213: -37447282176987461
+    second: tiles-Photoroom_6
+  - first:
+      213: -7553874663686288285
+    second: tiles-Photoroom_7
+  - first:
+      213: -1506284950839097964
+    second: tiles-Photoroom_8
+  - first:
+      213: -2697818666848459443
+    second: tiles-Photoroom_9
+  - first:
+      213: 7830777091833552589
+    second: tiles-Photoroom_10
+  - first:
+      213: 5594893248245037118
+    second: tiles-Photoroom_11
+  - first:
+      213: -6441632932931473305
+    second: tiles-Photoroom_12
+  - first:
+      213: 623993889479708629
+    second: tiles-Photoroom_13
+  - first:
+      213: 7066297532409691471
+    second: tiles-Photoroom_14
+  - first:
+      213: -4078519540513991490
+    second: tiles-Photoroom_15
+  - first:
+      213: -4503904651279952149
+    second: tiles-Photoroom_16
+  - first:
+      213: 1973089044371550674
+    second: tiles-Photoroom_17
+  - first:
+      213: -1634723188494284272
+    second: tiles-Photoroom_18
+  - first:
+      213: -1018952847091278284
+    second: tiles-Photoroom_19
+  - first:
+      213: -5462789795521120000
+    second: tiles-Photoroom_20
+  - first:
+      213: -8876448610541426576
+    second: tiles-Photoroom_21
+  - first:
+      213: 4423885318554612972
+    second: tiles-Photoroom_22
+  - first:
+      213: -8214156387061943925
+    second: tiles-Photoroom_23
+  - first:
+      213: 5331522219513521591
+    second: tiles-Photoroom_24
+  - first:
+      213: -6819030051791552746
+    second: tiles-Photoroom_25
+  - first:
+      213: -6425941517678923588
+    second: tiles-Photoroom_26
+  - first:
+      213: 3455032637724030141
+    second: tiles-Photoroom_27
+  - first:
+      213: 322949320092216651
+    second: tiles-Photoroom_28
+  - first:
+      213: -1887213385817865921
+    second: tiles-Photoroom_29
+  - first:
+      213: -6159055344052480547
+    second: tiles-Photoroom_30
+  - first:
+      213: -7793329871565061163
+    second: tiles-Photoroom_31
+  - first:
+      213: 4582974682421572902
+    second: tiles-Photoroom_32
+  - first:
+      213: -1476710722908727371
+    second: tiles-Photoroom_33
+  - first:
+      213: -4814522842019963127
+    second: tiles-Photoroom_34
+  - first:
+      213: 3583247905591932372
+    second: tiles-Photoroom_35
+  - first:
+      213: 2896533902337316125
+    second: tiles-Photoroom_36
+  - first:
+      213: -4318363100987309580
+    second: tiles-Photoroom_37
+  - first:
+      213: 6875793506295086658
+    second: tiles-Photoroom_38
+  - first:
+      213: 7714737392455398190
+    second: tiles-Photoroom_39
+  - first:
+      213: 8585826873369015684
+    second: tiles-Photoroom_40
+  - first:
+      213: 432770828941717045
+    second: tiles-Photoroom_41
+  - first:
+      213: -7443202751903134982
+    second: tiles-Photoroom_42
+  - first:
+      213: -2190660001042350428
+    second: tiles-Photoroom_43
+  - first:
+      213: 7739371782568157609
+    second: tiles-Photoroom_44
+  - first:
+      213: -2267989503728292614
+    second: tiles-Photoroom_45
+  - first:
+      213: 4526403397468360420
+    second: tiles-Photoroom_46
+  - first:
+      213: -4275009528651867784
+    second: tiles-Photoroom_47
+  - first:
+      213: -7763652857294766685
+    second: tiles-Photoroom_48
+  - first:
+      213: -5981819622731546675
+    second: tiles-Photoroom_49
+  - first:
+      213: -2909001801167986076
+    second: tiles-Photoroom_50
+  - first:
+      213: 1302902737259472870
+    second: tiles-Photoroom_51
+  - first:
+      213: 6504397990557680343
+    second: tiles-Photoroom_52
+  - first:
+      213: 3748206676017116827
+    second: tiles-Photoroom_53
+  - first:
+      213: 601102283244426593
+    second: tiles-Photoroom_54
+  - first:
+      213: -2745137671186734868
+    second: tiles-Photoroom_55
+  - first:
+      213: 2105399859654176856
+    second: tiles-Photoroom_56
+  - first:
+      213: -7575661008627352711
+    second: tiles-Photoroom_57
+  - first:
+      213: -2051957453346996655
+    second: tiles-Photoroom_58
+  - first:
+      213: -8655509132093023383
+    second: tiles-Photoroom_59
+  - first:
+      213: 7756669820274398673
+    second: tiles-Photoroom_60
+  - first:
+      213: 3170990817587982966
+    second: tiles-Photoroom_61
+  - first:
+      213: 4363725430922451366
+    second: tiles-Photoroom_62
+  - first:
+      213: -124323218166518527
+    second: tiles-Photoroom_63
+  - first:
+      213: 1628664246773504974
+    second: tiles-Photoroom_64
+  - first:
+      213: 8406142273009861778
+    second: tiles-Photoroom_65
+  - first:
+      213: 715626977572236906
+    second: tiles-Photoroom_66
+  - first:
+      213: -6006927735680095047
+    second: tiles-Photoroom_67
+  - first:
+      213: 5478318745810480366
+    second: tiles-Photoroom_68
+  - first:
+      213: 900178226590682455
+    second: tiles-Photoroom_69
+  - first:
+      213: 42761200243329794
+    second: tiles-Photoroom_70
+  - first:
+      213: -2485944775645317563
+    second: tiles-Photoroom_71
+  - first:
+      213: -4288989306350300349
+    second: tiles-Photoroom_72
+  - first:
+      213: -2710330377342635049
+    second: tiles-Photoroom_73
+  - first:
+      213: -4266527115766614144
+    second: tiles-Photoroom_74
+  - first:
+      213: 3422464494196422125
+    second: tiles-Photoroom_75
+  - first:
+      213: -1699566816711547485
+    second: tiles-Photoroom_76
+  - first:
+      213: -4648359061978036089
+    second: tiles-Photoroom_77
+  - first:
+      213: 3388142644520713496
+    second: tiles-Photoroom_78
+  - first:
+      213: 5744701511682082188
+    second: tiles-Photoroom_79
+  - first:
+      213: 5196930256889154634
+    second: tiles-Photoroom_80
+  - first:
+      213: -1336561755565314026
+    second: tiles-Photoroom_81
+  - first:
+      213: 8464669736423678856
+    second: tiles-Photoroom_82
+  - first:
+      213: -6414550824479762537
+    second: tiles-Photoroom_83
+  - first:
+      213: 8225340031663911425
+    second: tiles-Photoroom_84
+  - first:
+      213: 4097917254505700519
+    second: tiles-Photoroom_85
+  - first:
+      213: -5454906359433989046
+    second: tiles-Photoroom_86
+  - first:
+      213: 479746461159068806
+    second: tiles-Photoroom_87
+  - first:
+      213: -2396593815048283152
+    second: tiles-Photoroom_88
+  - first:
+      213: -2868229211890441515
+    second: tiles-Photoroom_89
+  - first:
+      213: 8027010478044581122
+    second: tiles-Photoroom_90
+  - first:
+      213: -2525312195998499660
+    second: tiles-Photoroom_91
+  - first:
+      213: -7419588282647396269
+    second: tiles-Photoroom_92
+  - first:
+      213: 1548156354802587594
+    second: tiles-Photoroom_93
+  - first:
+      213: 7921438925105466767
+    second: tiles-Photoroom_94
+  - first:
+      213: 3355092521497685842
+    second: tiles-Photoroom_95
+  - first:
+      213: -5980603608051376918
+    second: tiles-Photoroom_96
+  - first:
+      213: 3028610868228653214
+    second: tiles-Photoroom_97
+  - first:
+      213: -7918939590554360810
+    second: tiles-Photoroom_98
+  - first:
+      213: 8599516780828624811
+    second: tiles-Photoroom_99
+  - first:
+      213: -8780980370332004070
+    second: tiles-Photoroom_100
+  - first:
+      213: 7136638697732053427
+    second: tiles-Photoroom_101
+  - first:
+      213: -4393838410020488033
+    second: tiles-Photoroom_102
+  - first:
+      213: 6702722211824576634
+    second: tiles-Photoroom_103
+  - first:
+      213: 7074199035552967234
+    second: tiles-Photoroom_104
+  - first:
+      213: 5598974328503922974
+    second: tiles-Photoroom_105
+  - first:
+      213: 1384997341775667178
+    second: tiles-Photoroom_106
+  - first:
+      213: -3806781375929443562
+    second: tiles-Photoroom_107
+  - first:
+      213: 7880103410562870966
+    second: tiles-Photoroom_108
+  - first:
+      213: 7168810517718725997
+    second: tiles-Photoroom_109
+  - first:
+      213: 2594280308825910149
+    second: tiles-Photoroom_110
+  - first:
+      213: -1957385758029874998
+    second: tiles-Photoroom_111
+  - first:
+      213: -2913361495359508355
+    second: tiles-Photoroom_112
+  - first:
+      213: -6363204855582319619
+    second: tiles-Photoroom_113
+  - first:
+      213: 3065791398348210511
+    second: tiles-Photoroom_114
+  - first:
+      213: -7065081470738859089
+    second: tiles-Photoroom_115
+  - first:
+      213: 3746704602488430501
+    second: tiles-Photoroom_116
+  - first:
+      213: 555584154670891141
+    second: tiles-Photoroom_117
+  - first:
+      213: -5809094369516565265
+    second: tiles-Photoroom_118
+  - first:
+      213: -5432005790970830972
+    second: tiles-Photoroom_119
+  - first:
+      213: -7870116590355549237
+    second: tiles-Photoroom_120
+  - first:
+      213: 1008648858921758810
+    second: tiles-Photoroom_121
+  - first:
+      213: -5034971644085067474
+    second: tiles-Photoroom_122
+  - first:
+      213: 5839363950840385286
+    second: tiles-Photoroom_123
+  - first:
+      213: -1455634638316842216
+    second: tiles-Photoroom_124
+  - first:
+      213: -28871873026387477
+    second: tiles-Photoroom_125
+  - first:
+      213: 2565518985314275037
+    second: tiles-Photoroom_126
+  - first:
+      213: -1864977732098516855
+    second: tiles-Photoroom_127
+  - first:
+      213: -4735550303515382305
+    second: tiles-Photoroom_128
+  - first:
+      213: -4936692949580966792
+    second: tiles-Photoroom_129
+  - first:
+      213: -358167181458726842
+    second: tiles-Photoroom_130
+  - first:
+      213: -2271316855172107789
+    second: tiles-Photoroom_131
+  - first:
+      213: -6960674886078124590
+    second: tiles-Photoroom_132
+  - first:
+      213: -469215373664739257
+    second: tiles-Photoroom_133
+  - first:
+      213: 5429599851191542907
+    second: tiles-Photoroom_134
+  - first:
+      213: 9007252818586179838
+    second: tiles-Photoroom_135
+  - first:
+      213: -5581576224072491581
+    second: tiles-Photoroom_136
+  - first:
+      213: 1463530242981906994
+    second: tiles-Photoroom_137
+  - first:
+      213: 7142191083761899091
+    second: tiles-Photoroom_138
+  - first:
+      213: 5893261977482508488
+    second: tiles-Photoroom_139
+  - first:
+      213: 6660211356459770296
+    second: tiles-Photoroom_140
+  - first:
+      213: -3368556113868751639
+    second: tiles-Photoroom_141
+  - first:
+      213: 5365119008864822518
+    second: tiles-Photoroom_142
+  - first:
+      213: -3447181452797922792
+    second: tiles-Photoroom_143
+  - first:
+      213: 7760839870692289476
+    second: tiles-Photoroom_144
+  - first:
+      213: -8990364312941457791
+    second: tiles-Photoroom_145
+  - first:
+      213: -438851755811028469
+    second: tiles-Photoroom_146
+  - first:
+      213: -2075746960339693372
+    second: tiles-Photoroom_147
+  - first:
+      213: -8792171419089027390
+    second: tiles-Photoroom_148
+  - first:
+      213: -126921437783124927
+    second: tiles-Photoroom_149
+  - first:
+      213: -457481171304370495
+    second: tiles-Photoroom_150
+  - first:
+      213: 1542403765054559932
+    second: tiles-Photoroom_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: colosseo
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 514
+        width: 172
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81287176014e67890800000000000000
+      internalID: -7460524973592444392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 520
+        width: 193
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b6c9563a8e96690800000000000000
+      internalID: -7608294306983679099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tempio mini 4 colonne 2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 594
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1f600021e2bd210800000000000000
+      internalID: 1358730367427080690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piccola linea acquedotto
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 574
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fc48aa65fb6b620800000000000000
+      internalID: 2789627398151524107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tempio piccolo 4 col.4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 595
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6769fe8565a05a5d0800000000000000
+      internalID: -3052021806498081162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 618
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe690035e5fa7ff0800000000000000
+      internalID: -37447282176987461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 627
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cc729f30f3b2790800000000000000
+      internalID: -7553874663686288285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 629
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d456416573c6f8ad0800000000000000
+      internalID: -2697818666848459443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 629
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3870e924cd05ad40800000000000000
+      internalID: 5594893248245037118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acquedotto lungo
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 622
+        width: 151
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760792b0af8ba96a0800000000000000
+      internalID: -6441632932931473305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piccolo acquedotto
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 622
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfc37ce22fd8a800800000000000000
+      internalID: 623993889479708629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arco acquedotto 2
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 620
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dbf78ba28801260800000000000000
+      internalID: 7066297532409691471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tempio piccolo 4 col.2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 491
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb49c2a36103667c0800000000000000
+      internalID: -4078519540513991490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tempio piccolo 4 col.3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 491
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be69a36159aee71c0800000000000000
+      internalID: -4503904651279952149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 552
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a44b3dbeb4059e0800000000000000
+      internalID: -1634723188494284272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 552
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e5042c8c3fbd1f0800000000000000
+      internalID: -1018952847091278284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 546
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0782ba5a40580d480800000000000000
+      internalID: -8876448610541426576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arco grande acquedotto
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 515
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4738b224cc46d30800000000000000
+      internalID: 4423885318554612972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mezza colonna acquedotto
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 516
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5a436063f5df940800000000000000
+      internalID: 5331522219513521591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mezza colonna acquedotto 2
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 516
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0305b5c3872d6a0800000000000000
+      internalID: -6425941517678923588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circo massimo
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 361
+        width: 209
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4fbe2e0edb2ff20800000000000000
+      internalID: 3455032637724030141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 211
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dec8012b85b7400800000000000000
+      internalID: 322949320092216651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tempio mini 4 colonne
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 418
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31c6faac654fc5e0800000000000000
+      internalID: -1887213385817865921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tempio piccolo 4 colonne
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 416
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5d7c1fbc3a68aa0800000000000000
+      internalID: -6159055344052480547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tempio grande 4 colonne
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 349
+        width: 86
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d38cebc5c788d390800000000000000
+      internalID: -7793329871565061163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro rotto mattone
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 460
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625b858213ff99f30800000000000000
+      internalID: 4582974682421572902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finestra muro rotto
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 460
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f556ecbf06f2db0800000000000000
+      internalID: -4814522842019963127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 finestre muro
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 460
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1511b8dc3e823820800000000000000
+      internalID: 2896533902337316125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta, finestra, balcone muro
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 460
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f14f7aa3a71214c0800000000000000
+      internalID: -4318363100987309580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 425
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa8a9d688e64b890800000000000000
+      internalID: -7443202751903134982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tempio davanti 6 colonne
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 350
+        width: 77
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeb63ee5563991e0800000000000000
+      internalID: -2190660001042350428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonna dorica
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 339
+        width: 19
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8799b41db7d1ca4c0800000000000000
+      internalID: -4275009528651867784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 342
+        width: 9
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfff940fbe4cfca0800000000000000
+      internalID: -5981819622731546675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonna ionica 1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 337
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462296e364621a7d0800000000000000
+      internalID: -2909001801167986076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonna ionica 2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 337
+        width: 27
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e72c3fe227d41210800000000000000
+      internalID: 1302902737259472870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonna corinzia
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 337
+        width: 28
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d284f8b283444a50800000000000000
+      internalID: 6504397990557680343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patio giallo
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 348
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165d572875b875800800000000000000
+      internalID: 601102283244426593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patio piscina
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 350
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85038d87402e73d10800000000000000
+      internalID: 2105399859654176856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patio prato
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 352
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e7903619bf583e0800000000000000
+      internalID: -2051957453346996655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scale
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 353
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10de9d711b0564ef0800000000000000
+      internalID: -124323218166518527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tetto angolo
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 274
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e21edc1fa6ee900800000000000000
+      internalID: 715626977572236906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 278
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d8a76e3531e7c00800000000000000
+      internalID: 900178226590682455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 272
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3439a8d23f27a74c0800000000000000
+      internalID: -4288989306350300349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonna
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 274
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3ba8ab1e8f26ad0800000000000000
+      internalID: -2710330377342635049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 274
+        width: 9
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087b82871304ac4c0800000000000000
+      internalID: -4266527115766614144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timpano vuoto
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 300
+        width: 99
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5f6f013590f7f20800000000000000
+      internalID: 3422464494196422125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4 colonne
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 282
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d7207b8c9150f20800000000000000
+      internalID: 3388142644520713496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 colonne
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 279
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85c570969749bf40800000000000000
+      internalID: 5744701511682082188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patio 4 porte
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 265
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c8b5cb8843f1840800000000000000
+      internalID: 5196930256889154634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patio mattoni 2 porte
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 266
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610382b2a24937de0800000000000000
+      internalID: -1336561755565314026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patio
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 262
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883688c074c887570800000000000000
+      internalID: 8464669736423678856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tetto oh
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 201
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac91c1080abed830800000000000000
+      internalID: 4097917254505700519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 249
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68413a75dd668a600800000000000000
+      internalID: 479746461159068806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timpano
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 268
+        width: 98
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb16277f969dbed0800000000000000
+      internalID: -2396593815048283152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sopraelevato
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 212
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d22fd27ab00238d0800000000000000
+      internalID: -2868229211890441515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sopraelevato scale
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 206
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d8f28308ba56f60800000000000000
+      internalID: 8027010478044581122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tetto piccolo
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 205
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d0dd89bba9eed60800000000000000
+      internalID: 7921438925105466767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "met\xE0 tetto"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 205
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f607c4fdeaf8e20800000000000000
+      internalID: 3355092521497685842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiles-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 215
+        width: 10
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec9daf74b0a00da0800000000000000
+      internalID: -5980603608051376918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sopraelevato rettangolare
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 208
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9008a3d989c70a20800000000000000
+      internalID: 3028610868228653214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa mini
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 151
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba70d4133fe975770800000000000000
+      internalID: 8599516780828624811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa media
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 150
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cf242ee33f503c0800000000000000
+      internalID: -4393838410020488033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arco acquedotto
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 97
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78acefc65ad40d50800000000000000
+      internalID: 6702722211824576634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acquedotto colonna 1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 20
+        width: 61
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef166b8ebf783310800000000000000
+      internalID: 1384997341775667178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acquedotto colonna 2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 19
+        width: 67
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bea1f32d40cb5d60800000000000000
+      internalID: 7880103410562870966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro mini rotto
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 101
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6575b21f2bbc7360800000000000000
+      internalID: 7168810517718725997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro grande rotto
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 102
+        width: 103
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58beb5f123cb00420800000000000000
+      internalID: 2594280308825910149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro porta
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 102
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac878341608f5d4e0800000000000000
+      internalID: -1957385758029874998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muro rotto verde
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 102
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70bbc6d729a197d0800000000000000
+      internalID: -2913361495359508355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini muro porta
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 101
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb99f5c5ea51b7a0800000000000000
+      internalID: -6363204855582319619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa grande colonne
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 148
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f414ef59801eb8a20800000000000000
+      internalID: 3065791398348210511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 cipresso
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 151
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5808ef558d4d5b700800000000000000
+      internalID: 555584154670891141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 cipressi
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 151
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3f2f2a8aab7c290800000000000000
+      internalID: -7870116590355549237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 barili
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 153
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21252457ff202ab0800000000000000
+      internalID: -5034971644085067474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 case
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 156
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be113483f2d699ff0800000000000000
+      internalID: -28871873026387477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancarella gialla
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 147
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdde8f6c612f74eb0800000000000000
+      internalID: -4735550303515382305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa colonne
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 24
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7429c22c40d95b40800000000000000
+      internalID: 5429599851191542907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa grande
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 28
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef817fd47b0300d70800000000000000
+      internalID: 9007252818586179838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa piccola
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 28
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd94652ff14a82b0800000000000000
+      internalID: -5581576224072491581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancarella mini blurossa
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 90
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a4afa70018f4410800000000000000
+      internalID: 1463530242981906994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancarella rossa
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 89
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356179123f82e1360800000000000000
+      internalID: 7142191083761899091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bancarella blu
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 83
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c839207b8219c150800000000000000
+      internalID: 5893261977482508488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statua animale
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 90
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1aecef0f2dd6c50800000000000000
+      internalID: 6660211356459770296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: statua
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 88
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecf1e2df0c7041d0800000000000000
+      internalID: -3368556113868751639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scale 2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 22
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb6d436eba04bb60800000000000000
+      internalID: 7760839870692289476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prato
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 19
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e86c55a4fcb3380800000000000000
+      internalID: -8990364312941457791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prato con terra
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 17
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c01b5923277133e0800000000000000
+      internalID: -2075746960339693372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: terra
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 17
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce3bd06daeebf580800000000000000
+      internalID: -8792171419089027390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pavimento giallo
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 16
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1441e82ff951d3ef0800000000000000
+      internalID: -126921437783124927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strada
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 19
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce29fc6c43b6a9f0800000000000000
+      internalID: -457481171304370495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 18bdc9ffc3f575c428491bd0889a29c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1 cipresso: 555584154670891141
+      2 barili: -5034971644085067474
+      2 case: -28871873026387477
+      2 colonne: 5744701511682082188
+      2 finestre muro: 2896533902337316125
+      3 cipressi: -7870116590355549237
+      4 colonne: 3388142644520713496
+      acquedotto colonna 1: 1384997341775667178
+      acquedotto colonna 2: 7880103410562870966
+      acquedotto lungo: -6441632932931473305
+      arco acquedotto: 6702722211824576634
+      arco acquedotto 2: 7066297532409691471
+      arco grande acquedotto: 4423885318554612972
+      bancarella blu: 5893261977482508488
+      bancarella gialla: -4735550303515382305
+      bancarella mini blurossa: 1463530242981906994
+      bancarella rossa: 7142191083761899091
+      casa colonne: 5429599851191542907
+      casa grande: 9007252818586179838
+      casa grande colonne: 3065791398348210511
+      casa media: -4393838410020488033
+      casa mini: 8599516780828624811
+      casa piccola: -5581576224072491581
+      circo massimo: 3455032637724030141
+      colonna: -2710330377342635049
+      colonna corinzia: 6504397990557680343
+      colonna dorica: -4275009528651867784
+      colonna ionica 1: -2909001801167986076
+      colonna ionica 2: 1302902737259472870
+      colosseo: -7460524973592444392
+      finestra muro rotto: -4814522842019963127
+      "met\xE0 tetto": 3355092521497685842
+      mezza colonna acquedotto: 5331522219513521591
+      mezza colonna acquedotto 2: -6425941517678923588
+      mini muro porta: -6363204855582319619
+      muro grande rotto: 2594280308825910149
+      muro mini rotto: 7168810517718725997
+      muro porta: -1957385758029874998
+      muro rotto mattone: 4582974682421572902
+      muro rotto verde: -2913361495359508355
+      patio: 8464669736423678856
+      patio 4 porte: 5196930256889154634
+      patio giallo: 601102283244426593
+      patio mattoni 2 porte: -1336561755565314026
+      patio piscina: 2105399859654176856
+      patio prato: -2051957453346996655
+      pavimento giallo: -126921437783124927
+      piccola linea acquedotto: 2789627398151524107
+      piccolo acquedotto: 623993889479708629
+      porta, finestra, balcone muro: -4318363100987309580
+      prato: -8990364312941457791
+      prato con terra: -2075746960339693372
+      scale: -124323218166518527
+      scale 2: 7760839870692289476
+      sopraelevato: -2868229211890441515
+      sopraelevato rettangolare: 3028610868228653214
+      sopraelevato scale: 8027010478044581122
+      statua: -3368556113868751639
+      statua animale: 6660211356459770296
+      strada: -457481171304370495
+      tempio davanti 6 colonne: -2190660001042350428
+      tempio grande 4 colonne: -7793329871565061163
+      tempio mini 4 colonne: -1887213385817865921
+      tempio mini 4 colonne 2: 1358730367427080690
+      tempio piccolo 4 col.2: -4078519540513991490
+      tempio piccolo 4 col.3: -4503904651279952149
+      tempio piccolo 4 col.4: -3052021806498081162
+      tempio piccolo 4 colonne: -6159055344052480547
+      terra: -8792171419089027390
+      tetto angolo: 715626977572236906
+      tetto oh: 4097917254505700519
+      tetto piccolo: 7921438925105466767
+      tiles-Photoroom_1: -7608294306983679099
+      tiles-Photoroom_10: 7830777091833552589
+      tiles-Photoroom_100: -8780980370332004070
+      tiles-Photoroom_101: 7136638697732053427
+      tiles-Photoroom_104: 7074199035552967234
+      tiles-Photoroom_105: 5598974328503922974
+      tiles-Photoroom_107: -3806781375929443562
+      tiles-Photoroom_11: 5594893248245037118
+      tiles-Photoroom_115: -7065081470738859089
+      tiles-Photoroom_116: 3746704602488430501
+      tiles-Photoroom_118: -5809094369516565265
+      tiles-Photoroom_119: -5432005790970830972
+      tiles-Photoroom_121: 1008648858921758810
+      tiles-Photoroom_123: 5839363950840385286
+      tiles-Photoroom_124: -1455634638316842216
+      tiles-Photoroom_126: 2565518985314275037
+      tiles-Photoroom_127: -1864977732098516855
+      tiles-Photoroom_129: -4936692949580966792
+      tiles-Photoroom_130: -358167181458726842
+      tiles-Photoroom_131: -2271316855172107789
+      tiles-Photoroom_132: -6960674886078124590
+      tiles-Photoroom_133: -469215373664739257
+      tiles-Photoroom_142: 5365119008864822518
+      tiles-Photoroom_143: -3447181452797922792
+      tiles-Photoroom_146: -438851755811028469
+      tiles-Photoroom_151: 1542403765054559932
+      tiles-Photoroom_17: 1973089044371550674
+      tiles-Photoroom_18: -1634723188494284272
+      tiles-Photoroom_19: -1018952847091278284
+      tiles-Photoroom_20: -5462789795521120000
+      tiles-Photoroom_21: -8876448610541426576
+      tiles-Photoroom_23: -8214156387061943925
+      tiles-Photoroom_25: -6819030051791552746
+      tiles-Photoroom_28: 322949320092216651
+      tiles-Photoroom_33: -1476710722908727371
+      tiles-Photoroom_35: 3583247905591932372
+      tiles-Photoroom_38: 6875793506295086658
+      tiles-Photoroom_39: 7714737392455398190
+      tiles-Photoroom_40: 8585826873369015684
+      tiles-Photoroom_41: 432770828941717045
+      tiles-Photoroom_42: -7443202751903134982
+      tiles-Photoroom_44: 7739371782568157609
+      tiles-Photoroom_45: -2267989503728292614
+      tiles-Photoroom_46: 4526403397468360420
+      tiles-Photoroom_48: -7763652857294766685
+      tiles-Photoroom_49: -5981819622731546675
+      tiles-Photoroom_5: -8690629772438329517
+      tiles-Photoroom_53: 3748206676017116827
+      tiles-Photoroom_55: -2745137671186734868
+      tiles-Photoroom_57: -7575661008627352711
+      tiles-Photoroom_59: -8655509132093023383
+      tiles-Photoroom_6: -37447282176987461
+      tiles-Photoroom_60: 7756669820274398673
+      tiles-Photoroom_61: 3170990817587982966
+      tiles-Photoroom_62: 4363725430922451366
+      tiles-Photoroom_64: 1628664246773504974
+      tiles-Photoroom_65: 8406142273009861778
+      tiles-Photoroom_67: -6006927735680095047
+      tiles-Photoroom_68: 5478318745810480366
+      tiles-Photoroom_69: 900178226590682455
+      tiles-Photoroom_7: -7553874663686288285
+      tiles-Photoroom_70: 42761200243329794
+      tiles-Photoroom_71: -2485944775645317563
+      tiles-Photoroom_72: -4288989306350300349
+      tiles-Photoroom_74: -4266527115766614144
+      tiles-Photoroom_76: -1699566816711547485
+      tiles-Photoroom_77: -4648359061978036089
+      tiles-Photoroom_8: -1506284950839097964
+      tiles-Photoroom_83: -6414550824479762537
+      tiles-Photoroom_84: 8225340031663911425
+      tiles-Photoroom_86: -5454906359433989046
+      tiles-Photoroom_87: 479746461159068806
+      tiles-Photoroom_9: -2697818666848459443
+      tiles-Photoroom_91: -2525312195998499660
+      tiles-Photoroom_92: -7419588282647396269
+      tiles-Photoroom_93: 1548156354802587594
+      tiles-Photoroom_96: -5980603608051376918
+      tiles-Photoroom_98: -7918939590554360810
+      timpano: -2396593815048283152
+      timpano vuoto: 3422464494196422125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
