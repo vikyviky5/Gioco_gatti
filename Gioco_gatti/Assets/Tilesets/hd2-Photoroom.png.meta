@@ -1,0 +1,3926 @@
+fileFormatVersion: 2
+guid: 79c09b65592d86e4389f9b1fb6643ab8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1521408461540192409
+    second: hd2-Photoroom_0
+  - first:
+      213: 6173166083562616888
+    second: hd2-Photoroom_1
+  - first:
+      213: 579837729812642421
+    second: hd2-Photoroom_2
+  - first:
+      213: 2512186397071983425
+    second: hd2-Photoroom_3
+  - first:
+      213: 930709752461212865
+    second: hd2-Photoroom_4
+  - first:
+      213: -5594568589187388365
+    second: hd2-Photoroom_5
+  - first:
+      213: 8266887488348035307
+    second: hd2-Photoroom_6
+  - first:
+      213: 2638833059671150002
+    second: hd2-Photoroom_7
+  - first:
+      213: -9210187662846625605
+    second: hd2-Photoroom_8
+  - first:
+      213: 5689102346469772600
+    second: hd2-Photoroom_9
+  - first:
+      213: 7952539506416022492
+    second: hd2-Photoroom_10
+  - first:
+      213: -3625775106465901226
+    second: hd2-Photoroom_11
+  - first:
+      213: -4521991701862909752
+    second: hd2-Photoroom_12
+  - first:
+      213: 8735902807021655055
+    second: hd2-Photoroom_13
+  - first:
+      213: -7528899530462501116
+    second: hd2-Photoroom_14
+  - first:
+      213: -2500164908421903661
+    second: hd2-Photoroom_15
+  - first:
+      213: -8320492498341557965
+    second: hd2-Photoroom_16
+  - first:
+      213: -2019205066241911795
+    second: hd2-Photoroom_17
+  - first:
+      213: -3182153029287189234
+    second: hd2-Photoroom_18
+  - first:
+      213: 4283706810864319232
+    second: hd2-Photoroom_19
+  - first:
+      213: -375412340298946264
+    second: hd2-Photoroom_20
+  - first:
+      213: -2456962141598994797
+    second: hd2-Photoroom_21
+  - first:
+      213: 128263840933629052
+    second: hd2-Photoroom_22
+  - first:
+      213: -2086722906352847075
+    second: hd2-Photoroom_23
+  - first:
+      213: -8085864581333841708
+    second: hd2-Photoroom_24
+  - first:
+      213: 6653500194529720765
+    second: hd2-Photoroom_25
+  - first:
+      213: 8211831222662739711
+    second: hd2-Photoroom_26
+  - first:
+      213: -5986824488935744374
+    second: hd2-Photoroom_27
+  - first:
+      213: -4315889758122064502
+    second: hd2-Photoroom_28
+  - first:
+      213: 3727353702972780955
+    second: hd2-Photoroom_29
+  - first:
+      213: 3184515086255965960
+    second: hd2-Photoroom_30
+  - first:
+      213: 321272159625926709
+    second: hd2-Photoroom_31
+  - first:
+      213: -122940028444895982
+    second: hd2-Photoroom_32
+  - first:
+      213: -8693086981066974778
+    second: hd2-Photoroom_33
+  - first:
+      213: -216671151404458094
+    second: hd2-Photoroom_34
+  - first:
+      213: 4727496735834958578
+    second: hd2-Photoroom_35
+  - first:
+      213: 1854108422213651045
+    second: hd2-Photoroom_36
+  - first:
+      213: -3300690797172862997
+    second: hd2-Photoroom_37
+  - first:
+      213: 2919623419319483759
+    second: hd2-Photoroom_38
+  - first:
+      213: -5055487419697793347
+    second: hd2-Photoroom_39
+  - first:
+      213: -4984443413634897006
+    second: hd2-Photoroom_40
+  - first:
+      213: 163099374158303553
+    second: hd2-Photoroom_41
+  - first:
+      213: -5265547863079660827
+    second: hd2-Photoroom_42
+  - first:
+      213: -3181337283193069637
+    second: hd2-Photoroom_43
+  - first:
+      213: 5963153775820243019
+    second: hd2-Photoroom_44
+  - first:
+      213: 1121748763951536977
+    second: hd2-Photoroom_45
+  - first:
+      213: -1742888012106441862
+    second: hd2-Photoroom_46
+  - first:
+      213: 2618411802980682321
+    second: hd2-Photoroom_47
+  - first:
+      213: 4419573048913956199
+    second: hd2-Photoroom_48
+  - first:
+      213: 1599519543523947192
+    second: hd2-Photoroom_49
+  - first:
+      213: -1067102903444070343
+    second: hd2-Photoroom_50
+  - first:
+      213: 2568582715610954431
+    second: hd2-Photoroom_51
+  - first:
+      213: 828262216874648478
+    second: hd2-Photoroom_52
+  - first:
+      213: 3316823165876851918
+    second: hd2-Photoroom_53
+  - first:
+      213: -7912668989085740367
+    second: hd2-Photoroom_54
+  - first:
+      213: -1979143811529947220
+    second: hd2-Photoroom_55
+  - first:
+      213: 8297367486865517392
+    second: hd2-Photoroom_56
+  - first:
+      213: 2871085569135625232
+    second: hd2-Photoroom_57
+  - first:
+      213: 6751812455135710632
+    second: hd2-Photoroom_58
+  - first:
+      213: 4629069265391771556
+    second: hd2-Photoroom_59
+  - first:
+      213: 3350228381384931218
+    second: hd2-Photoroom_60
+  - first:
+      213: 3949550624302028004
+    second: hd2-Photoroom_61
+  - first:
+      213: 7953663603251417786
+    second: hd2-Photoroom_62
+  - first:
+      213: 7640923885591976935
+    second: hd2-Photoroom_63
+  - first:
+      213: -1585799813660757263
+    second: hd2-Photoroom_64
+  - first:
+      213: -208319827093260500
+    second: hd2-Photoroom_65
+  - first:
+      213: -1971923804519536136
+    second: hd2-Photoroom_66
+  - first:
+      213: 3235456138189539385
+    second: hd2-Photoroom_67
+  - first:
+      213: 257002059758269874
+    second: hd2-Photoroom_68
+  - first:
+      213: 23340774631755413
+    second: hd2-Photoroom_69
+  - first:
+      213: -8004909309098730605
+    second: hd2-Photoroom_70
+  - first:
+      213: -9191058338002865331
+    second: hd2-Photoroom_71
+  - first:
+      213: 6071119068429580723
+    second: hd2-Photoroom_72
+  - first:
+      213: 7838298321024346606
+    second: hd2-Photoroom_73
+  - first:
+      213: -7368608016744286347
+    second: hd2-Photoroom_74
+  - first:
+      213: 6930852593027150648
+    second: hd2-Photoroom_75
+  - first:
+      213: 4928433882936863348
+    second: hd2-Photoroom_76
+  - first:
+      213: 4363906013565538749
+    second: hd2-Photoroom_77
+  - first:
+      213: 1452041646073678865
+    second: hd2-Photoroom_78
+  - first:
+      213: -848551008246936245
+    second: hd2-Photoroom_79
+  - first:
+      213: -3261438788825402489
+    second: hd2-Photoroom_80
+  - first:
+      213: 8556824912860364907
+    second: hd2-Photoroom_81
+  - first:
+      213: -4628505348738416663
+    second: hd2-Photoroom_82
+  - first:
+      213: -7832510352611673436
+    second: hd2-Photoroom_83
+  - first:
+      213: -9077481918554373789
+    second: hd2-Photoroom_84
+  - first:
+      213: -5158554764317871773
+    second: hd2-Photoroom_85
+  - first:
+      213: -396916830971699443
+    second: hd2-Photoroom_86
+  - first:
+      213: 923780573367527409
+    second: hd2-Photoroom_87
+  - first:
+      213: -5277495424598649339
+    second: hd2-Photoroom_88
+  - first:
+      213: 1899084011060241188
+    second: hd2-Photoroom_89
+  - first:
+      213: 8764578799422194239
+    second: hd2-Photoroom_90
+  - first:
+      213: -5098756276539471725
+    second: hd2-Photoroom_91
+  - first:
+      213: -4670893034886937665
+    second: hd2-Photoroom_92
+  - first:
+      213: 4344680621859936081
+    second: hd2-Photoroom_93
+  - first:
+      213: -2779752971758512341
+    second: hd2-Photoroom_94
+  - first:
+      213: 941716130811472336
+    second: hd2-Photoroom_95
+  - first:
+      213: 3432501497539422328
+    second: hd2-Photoroom_96
+  - first:
+      213: 2824988584424210219
+    second: hd2-Photoroom_97
+  - first:
+      213: 1593808429571306833
+    second: hd2-Photoroom_98
+  - first:
+      213: -8851007328892571655
+    second: hd2-Photoroom_99
+  - first:
+      213: -7575666784266590945
+    second: hd2-Photoroom_100
+  - first:
+      213: -6414754299261913096
+    second: hd2-Photoroom_101
+  - first:
+      213: -2163060593190856223
+    second: hd2-Photoroom_102
+  - first:
+      213: 3389352128299161690
+    second: hd2-Photoroom_103
+  - first:
+      213: -1407093755923839754
+    second: hd2-Photoroom_104
+  - first:
+      213: -435499760046501955
+    second: hd2-Photoroom_105
+  - first:
+      213: 1127170664829527341
+    second: hd2-Photoroom_106
+  - first:
+      213: -8961643167038996240
+    second: hd2-Photoroom_107
+  - first:
+      213: -3862639134839835458
+    second: hd2-Photoroom_108
+  - first:
+      213: -6017329953953204009
+    second: hd2-Photoroom_109
+  - first:
+      213: 8742329030141545438
+    second: hd2-Photoroom_110
+  - first:
+      213: 8750049418804749779
+    second: hd2-Photoroom_111
+  - first:
+      213: 6327046044167372637
+    second: hd2-Photoroom_112
+  - first:
+      213: -5182157468748391523
+    second: hd2-Photoroom_113
+  - first:
+      213: 9219774999251483341
+    second: hd2-Photoroom_114
+  - first:
+      213: -4770266070347060593
+    second: hd2-Photoroom_115
+  - first:
+      213: -5784517311701017926
+    second: hd2-Photoroom_116
+  - first:
+      213: 6294350955498522135
+    second: hd2-Photoroom_117
+  - first:
+      213: -2462268566497898967
+    second: hd2-Photoroom_118
+  - first:
+      213: -2105704382692125975
+    second: hd2-Photoroom_119
+  - first:
+      213: 1344441355289197477
+    second: hd2-Photoroom_120
+  - first:
+      213: 8889925634595625265
+    second: hd2-Photoroom_121
+  - first:
+      213: 5085037107677627394
+    second: hd2-Photoroom_122
+  - first:
+      213: 2970651956313926145
+    second: hd2-Photoroom_123
+  - first:
+      213: -728006882284291188
+    second: hd2-Photoroom_124
+  - first:
+      213: 3425279247509348184
+    second: hd2-Photoroom_125
+  - first:
+      213: 7970526176202989988
+    second: hd2-Photoroom_126
+  - first:
+      213: -4957640633714011857
+    second: hd2-Photoroom_127
+  - first:
+      213: -4717720880756220969
+    second: hd2-Photoroom_128
+  - first:
+      213: 718155683869535923
+    second: hd2-Photoroom_129
+  - first:
+      213: -588113601718426114
+    second: hd2-Photoroom_130
+  - first:
+      213: 7867276523557922567
+    second: hd2-Photoroom_131
+  - first:
+      213: -8946506081875915520
+    second: hd2-Photoroom_132
+  - first:
+      213: 7345703640906957852
+    second: hd2-Photoroom_133
+  - first:
+      213: 3847840445524859351
+    second: hd2-Photoroom_134
+  - first:
+      213: 1851070132491616577
+    second: hd2-Photoroom_135
+  - first:
+      213: 4458818240949792560
+    second: hd2-Photoroom_136
+  - first:
+      213: 1508955344920578374
+    second: hd2-Photoroom_137
+  - first:
+      213: 1157902899583945828
+    second: hd2-Photoroom_138
+  - first:
+      213: -2366049220309742905
+    second: hd2-Photoroom_139
+  - first:
+      213: 4371224808605149267
+    second: hd2-Photoroom_140
+  - first:
+      213: -5861119308005188749
+    second: hd2-Photoroom_141
+  - first:
+      213: 7364644265163238196
+    second: hd2-Photoroom_142
+  - first:
+      213: -3749853349340981863
+    second: hd2-Photoroom_143
+  - first:
+      213: -1244050776397375346
+    second: hd2-Photoroom_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hd2-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 218
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990706c5fe02d1510800000000000000
+      internalID: 1521408461540192409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 510
+        width: 276
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383d3e98dd7ba550800000000000000
+      internalID: 6173166083562616888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 595
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57af9d8d75ffb0800800000000000000
+      internalID: 579837729812642421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 595
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1434b0fc7341dd220800000000000000
+      internalID: 2512186397071983425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 560
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc3178b69b8aec00800000000000000
+      internalID: 930709752461212865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 627
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c6de962891c52b0800000000000000
+      internalID: -5594568589187388365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 623
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be81b1dee52e9b270800000000000000
+      internalID: 8266887488348035307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 629
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd8147cfa40f9420800000000000000
+      internalID: 2638833059671150002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 623
+        width: 161
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb877594e17de2080800000000000000
+      internalID: -9210187662846625605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 620
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d0c242170c3fe40800000000000000
+      internalID: 5689102346469772600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 510
+        width: 133
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3ff26fb881d5e60800000000000000
+      internalID: 7952539506416022492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 623
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65555a730c8aeadc0800000000000000
+      internalID: -3625775106465901226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 610
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c872357188ae31c0800000000000000
+      internalID: -4521991701862909752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 491
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f041dd471592c3970800000000000000
+      internalID: 8735902807021655055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 487
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4076d2154c9f38790800000000000000
+      internalID: -7528899530462501116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 546
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da8d912341ad4dd0800000000000000
+      internalID: -2500164908421903661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 552
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3398c08182ca78c80800000000000000
+      internalID: -8320492498341557965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 546
+        width: 158
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d045bf1c0b75af3e0800000000000000
+      internalID: -2019205066241911795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 550
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05676cfda8b6d3d0800000000000000
+      internalID: -3182153029287189234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 523
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b3d7ff5a8c27b30800000000000000
+      internalID: 4283706810864319232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 509
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829ee2c27744acaf0800000000000000
+      internalID: -375412340298946264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 516
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ea86323fd17edd0800000000000000
+      internalID: -2456962141598994797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 519
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c4064a84fa7c100800000000000000
+      internalID: 128263840933629052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 516
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17fa2692987a03e0800000000000000
+      internalID: -2086722906352847075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 529
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d80fa7010d39cf80800000000000000
+      internalID: -8085864581333841708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 454
+        width: 20
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9bfe7dc2bf55c50800000000000000
+      internalID: 6653500194529720765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 458
+        width: 16
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff636462df846f170800000000000000
+      internalID: 8211831222662739711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 354
+        width: 223
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c106cc8d68aeca0800000000000000
+      internalID: -5986824488935744374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 418
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85436da121ea14c0800000000000000
+      internalID: -4315889758122064502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 333
+        width: 50
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91fde9c1783ab330800000000000000
+      internalID: 3727353702972780955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 414
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c822499ba13c20800000000000000
+      internalID: 3184515086255965960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 461
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538d9b6b353657400800000000000000
+      internalID: 321272159625926709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 461
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2159ddb02ba3b4ef0800000000000000
+      internalID: -122940028444895982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 461
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c91eebd273fb5780800000000000000
+      internalID: -8693086981066974778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 454
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f567b5cba3efcf0800000000000000
+      internalID: -216671151404458094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 461
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fae240eb317b9140800000000000000
+      internalID: 4727496735834958578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 486
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aca1959cd1bb910800000000000000
+      internalID: 1854108422213651045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 426
+        width: 13
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef4c1135379132d0800000000000000
+      internalID: -3300690797172862997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 426
+        width: 161
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6df272f706948820800000000000000
+      internalID: 2919623419319483759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 425
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6f4761afc47d9b0800000000000000
+      internalID: -5055487419697793347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 278
+        width: 22
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ba14fbf13b3dab0800000000000000
+      internalID: -4984443413634897006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 333
+        width: 56
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1415bc34402734200800000000000000
+      internalID: 163099374158303553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 350
+        width: 79
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2d159dd140de6b0800000000000000
+      internalID: -5265547863079660827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 348
+        width: 98
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf129ca89e99d3d0800000000000000
+      internalID: -3181337283193069637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 435
+        width: 87
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b408bc4d3c061c250800000000000000
+      internalID: 5963153775820243019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 440
+        width: 75
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b909abe80419f00800000000000000
+      internalID: 1121748763951536977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 339
+        width: 19
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bdb13569400d7e0800000000000000
+      internalID: -1742888012106441862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 339
+        width: 10
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a8a5079a7765420800000000000000
+      internalID: 2618411802980682321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 342
+        width: 9
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d0867a54a755d30800000000000000
+      internalID: 4419573048913956199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 337
+        width: 25
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b23a0bdc82a23610800000000000000
+      internalID: 1599519543523947192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 350
+        width: 93
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930ad652093e031f0800000000000000
+      internalID: -1067102903444070343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 350
+        width: 42
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaf234fe5075a320800000000000000
+      internalID: 2568582715610954431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 350
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93e0b119149e7b00800000000000000
+      internalID: 828262216874648478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 350
+        width: 116
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec450e89819b70e20800000000000000
+      internalID: 3316823165876851918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 369
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b29b404a7d803290800000000000000
+      internalID: -7912668989085740367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 344
+        width: 241
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7485a703ba884e0800000000000000
+      internalID: -1979143811529947220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 345
+        width: 12
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bae7994cb262370800000000000000
+      internalID: 8297367486865517392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 353
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014441c0d1528d720800000000000000
+      internalID: 2871085569135625232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 345
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad0c62c7a143bd50800000000000000
+      internalID: 6751812455135710632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 269
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afda5498f1cd3040800000000000000
+      internalID: 4629069265391771556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 201
+        width: 72
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29771ec66f66e7e20800000000000000
+      internalID: 3350228381384931218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 279
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4d1fffd5f9fc630800000000000000
+      internalID: 3949550624302028004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 269
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab211c628e6116e60800000000000000
+      internalID: 7953663603251417786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 269
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebd1846ac30a0a60800000000000000
+      internalID: 7640923885591976935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 274
+        width: 19
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2bedda87b1ef9e0800000000000000
+      internalID: -1585799813660757263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 272
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c277f629836eb1df0800000000000000
+      internalID: -208319827093260500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 323
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9e97b5fb152a4e0800000000000000
+      internalID: -1971923804519536136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 299
+        width: 97
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938052b2736a6ec20800000000000000
+      internalID: 3235456138189539385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 200
+        width: 46
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b57f6ef20e019300800000000000000
+      internalID: 257002059758269874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 285
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e45b49f4ce25000800000000000000
+      internalID: 23340774631755413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 282
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bd3fb2569d8e090800000000000000
+      internalID: -8004909309098730605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 280
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43727d432dc27080800000000000000
+      internalID: -9191058338002865331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 254
+        width: 91
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b978d660a2f04450800000000000000
+      internalID: 6071119068429580723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 254
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9623c3bca37cc60800000000000000
+      internalID: 7838298321024346606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 254
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5777cd0ac027db990800000000000000
+      internalID: -7368608016744286347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 237
+        width: 263
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8337afd46b55f2060800000000000000
+      internalID: 6930852593027150648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 324
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a637b2180556440800000000000000
+      internalID: 4928433882936863348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 205
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1d3cbf565bf8c30800000000000000
+      internalID: 4363906013565538749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 201
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c8b411f20b62410800000000000000
+      internalID: 1452041646073678865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 269
+        width: 106
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d44a39a575934f0800000000000000
+      internalID: -848551008246936245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 214
+        width: 9
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783b16f83ba0db2d0800000000000000
+      internalID: -3261438788825402489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 207
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6041481ce2ffb670800000000000000
+      internalID: 8556824912860364907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 249
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef737f78ee34cfb0800000000000000
+      internalID: -4628505348738416663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 213
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaf20d25555d4390800000000000000
+      internalID: -7832510352611673436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 208
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36109852a4e460280800000000000000
+      internalID: -9077481918554373789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 200
+        width: 88
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3613f66e5c12968b0800000000000000
+      internalID: -5158554764317871773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 200
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fde84ce3edd7af0800000000000000
+      internalID: -396916830971699443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 230
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f76afd798de1dc00800000000000000
+      internalID: 923780573367527409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 151
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5065c096fd192c6b0800000000000000
+      internalID: -5277495424598649339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 230
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423aed5a8d6ea5a10800000000000000
+      internalID: 1899084011060241188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 228
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32ca793bf902a970800000000000000
+      internalID: 8764578799422194239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 151
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398429c4e249d39b0800000000000000
+      internalID: -5098756276539471725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 105
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3c7bf3887ad2fb0800000000000000
+      internalID: -4670893034886937665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 27
+        width: 67
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1571c78a1086b4c30800000000000000
+      internalID: 4344680621859936081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 160
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b275ff266655c69d0800000000000000
+      internalID: -2779752971758512341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 15
+        width: 66
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9e540e4d5a11d00800000000000000
+      internalID: 941716130811472336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 15
+        width: 83
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87865d30de1b2af20800000000000000
+      internalID: 3432501497539422328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 89
+        width: 6
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f732d6620643720800000000000000
+      internalID: 2824988584424210219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 103
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155fe9482585e1610800000000000000
+      internalID: 1593808429571306833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 93
+        width: 149
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffaaf0aab7ea2580800000000000000
+      internalID: -8851007328892571655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 103
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1560138233ddd690800000000000000
+      internalID: -7575666784266590945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 103
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7751f93f63af6a0800000000000000
+      internalID: -6414754299261913096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 30
+        width: 49
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e99633d9d34bf1e0800000000000000
+      internalID: -2163060593190856223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 147
+        width: 89
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a585cf99dc5690f20800000000000000
+      internalID: 3389352128299161690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 148
+        width: 6
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f44d702faff87ce0800000000000000
+      internalID: -1407093755923839754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 170
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf09ae864bc4f9f0800000000000000
+      internalID: -435499760046501955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 151
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25a7666fb384af00800000000000000
+      internalID: 1127170664829527341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 176
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f085d83509d1a380800000000000000
+      internalID: -8961643167038996240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 149
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb479580c26256ac0800000000000000
+      internalID: -3862639134839835458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 148
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d83d4eb9462e7ca0800000000000000
+      internalID: -6017329953953204009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_110
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 148
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb0c2f1fedf25970800000000000000
+      internalID: 8742329030141545438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_111
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 150
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d568fe269b6e6970800000000000000
+      internalID: 8750049418804749779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 83
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ff224eade2ec750800000000000000
+      internalID: 6327046044167372637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 156
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b5d190d374518b0800000000000000
+      internalID: -5182157468748391523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 148
+        width: 13
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca796b638833ff70800000000000000
+      internalID: 9219774999251483341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_115
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 193
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a6dd0784c9ccdb0800000000000000
+      internalID: -4770266070347060593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_116
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 152
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba96f6172449bfa0800000000000000
+      internalID: -5784517311701017926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_117
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 96
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716412a58d60a5750800000000000000
+      internalID: 6294350955498522135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_118
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 171
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e4840d8c344ddd0800000000000000
+      internalID: -2462268566497898967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_119
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 24
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e217ab350907c2e0800000000000000
+      internalID: -2105704382692125975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_120
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 15
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab7b5b1a4a68a210800000000000000
+      internalID: 1344441355289197477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_121
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 22
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13916b9834c5f5b70800000000000000
+      internalID: 8889925634595625265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_122
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 14
+        width: 113
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2040ec8ce4ea19640800000000000000
+      internalID: 5085037107677627394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_123
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 24
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a296f0730e93920800000000000000
+      internalID: 2970651956313926145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_124
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 28
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bb763099995e5f0800000000000000
+      internalID: -728006882284291188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_125
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 28
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fdf44e359098f20800000000000000
+      internalID: 3425279247509348184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_126
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 82
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1288dd35ffc9e60800000000000000
+      internalID: 7970526176202989988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_127
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 82
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f211f6f3c1ce23bb0800000000000000
+      internalID: -4957640633714011857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_128
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 89
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db1511cad9478eb0800000000000000
+      internalID: -4717720880756220969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_129
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 93
+        width: 10
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bea87e1ac667f900800000000000000
+      internalID: 718155683869535923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_130
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 82
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef56ff19bc996d7f0800000000000000
+      internalID: -588113601718426114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_131
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 83
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707a078c05e2e2d60800000000000000
+      internalID: 7867276523557922567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_132
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 82
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d0ae08e10a7d380800000000000000
+      internalID: -8946506081875915520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_133
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 25
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c148d8dca8e21f560800000000000000
+      internalID: 7345703640906957852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_134
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 15
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9d3eb9f76466530800000000000000
+      internalID: 3847840445524859351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_135
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 15
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1418f756a7250b910800000000000000
+      internalID: 1851070132491616577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_136
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 14
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f28d9f097e0ed30800000000000000
+      internalID: 4458818240949792560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_137
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 19
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6490be334e2e0f410800000000000000
+      internalID: 1508955344920578374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_138
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 14
+        width: 8
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c88166d82b11010800000000000000
+      internalID: 1157902899583945828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_139
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 14
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca095e15ca1a2fd0800000000000000
+      internalID: -2366049220309742905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_140
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 14
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358e84ebdc5b9ac30800000000000000
+      internalID: 4371224808605149267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_141
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 19
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bda2cfa0f19aea0800000000000000
+      internalID: -5861119308005188749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_142
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 15
+        width: 15
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b2c2a80f8743660800000000000000
+      internalID: 7364644265163238196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_143
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 15
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995d8b01f38d5fbc0800000000000000
+      internalID: -3749853349340981863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hd2-Photoroom_144
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 0
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88194ef86e3cbee0800000000000000
+      internalID: -1244050776397375346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hd2-Photoroom_0: 1521408461540192409
+      hd2-Photoroom_1: 6173166083562616888
+      hd2-Photoroom_10: 7952539506416022492
+      hd2-Photoroom_100: -7575666784266590945
+      hd2-Photoroom_101: -6414754299261913096
+      hd2-Photoroom_102: -2163060593190856223
+      hd2-Photoroom_103: 3389352128299161690
+      hd2-Photoroom_104: -1407093755923839754
+      hd2-Photoroom_105: -435499760046501955
+      hd2-Photoroom_106: 1127170664829527341
+      hd2-Photoroom_107: -8961643167038996240
+      hd2-Photoroom_108: -3862639134839835458
+      hd2-Photoroom_109: -6017329953953204009
+      hd2-Photoroom_11: -3625775106465901226
+      hd2-Photoroom_110: 8742329030141545438
+      hd2-Photoroom_111: 8750049418804749779
+      hd2-Photoroom_112: 6327046044167372637
+      hd2-Photoroom_113: -5182157468748391523
+      hd2-Photoroom_114: 9219774999251483341
+      hd2-Photoroom_115: -4770266070347060593
+      hd2-Photoroom_116: -5784517311701017926
+      hd2-Photoroom_117: 6294350955498522135
+      hd2-Photoroom_118: -2462268566497898967
+      hd2-Photoroom_119: -2105704382692125975
+      hd2-Photoroom_12: -4521991701862909752
+      hd2-Photoroom_120: 1344441355289197477
+      hd2-Photoroom_121: 8889925634595625265
+      hd2-Photoroom_122: 5085037107677627394
+      hd2-Photoroom_123: 2970651956313926145
+      hd2-Photoroom_124: -728006882284291188
+      hd2-Photoroom_125: 3425279247509348184
+      hd2-Photoroom_126: 7970526176202989988
+      hd2-Photoroom_127: -4957640633714011857
+      hd2-Photoroom_128: -4717720880756220969
+      hd2-Photoroom_129: 718155683869535923
+      hd2-Photoroom_13: 8735902807021655055
+      hd2-Photoroom_130: -588113601718426114
+      hd2-Photoroom_131: 7867276523557922567
+      hd2-Photoroom_132: -8946506081875915520
+      hd2-Photoroom_133: 7345703640906957852
+      hd2-Photoroom_134: 3847840445524859351
+      hd2-Photoroom_135: 1851070132491616577
+      hd2-Photoroom_136: 4458818240949792560
+      hd2-Photoroom_137: 1508955344920578374
+      hd2-Photoroom_138: 1157902899583945828
+      hd2-Photoroom_139: -2366049220309742905
+      hd2-Photoroom_14: -7528899530462501116
+      hd2-Photoroom_140: 4371224808605149267
+      hd2-Photoroom_141: -5861119308005188749
+      hd2-Photoroom_142: 7364644265163238196
+      hd2-Photoroom_143: -3749853349340981863
+      hd2-Photoroom_144: -1244050776397375346
+      hd2-Photoroom_15: -2500164908421903661
+      hd2-Photoroom_16: -8320492498341557965
+      hd2-Photoroom_17: -2019205066241911795
+      hd2-Photoroom_18: -3182153029287189234
+      hd2-Photoroom_19: 4283706810864319232
+      hd2-Photoroom_2: 579837729812642421
+      hd2-Photoroom_20: -375412340298946264
+      hd2-Photoroom_21: -2456962141598994797
+      hd2-Photoroom_22: 128263840933629052
+      hd2-Photoroom_23: -2086722906352847075
+      hd2-Photoroom_24: -8085864581333841708
+      hd2-Photoroom_25: 6653500194529720765
+      hd2-Photoroom_26: 8211831222662739711
+      hd2-Photoroom_27: -5986824488935744374
+      hd2-Photoroom_28: -4315889758122064502
+      hd2-Photoroom_29: 3727353702972780955
+      hd2-Photoroom_3: 2512186397071983425
+      hd2-Photoroom_30: 3184515086255965960
+      hd2-Photoroom_31: 321272159625926709
+      hd2-Photoroom_32: -122940028444895982
+      hd2-Photoroom_33: -8693086981066974778
+      hd2-Photoroom_34: -216671151404458094
+      hd2-Photoroom_35: 4727496735834958578
+      hd2-Photoroom_36: 1854108422213651045
+      hd2-Photoroom_37: -3300690797172862997
+      hd2-Photoroom_38: 2919623419319483759
+      hd2-Photoroom_39: -5055487419697793347
+      hd2-Photoroom_4: 930709752461212865
+      hd2-Photoroom_40: -4984443413634897006
+      hd2-Photoroom_41: 163099374158303553
+      hd2-Photoroom_42: -5265547863079660827
+      hd2-Photoroom_43: -3181337283193069637
+      hd2-Photoroom_44: 5963153775820243019
+      hd2-Photoroom_45: 1121748763951536977
+      hd2-Photoroom_46: -1742888012106441862
+      hd2-Photoroom_47: 2618411802980682321
+      hd2-Photoroom_48: 4419573048913956199
+      hd2-Photoroom_49: 1599519543523947192
+      hd2-Photoroom_5: -5594568589187388365
+      hd2-Photoroom_50: -1067102903444070343
+      hd2-Photoroom_51: 2568582715610954431
+      hd2-Photoroom_52: 828262216874648478
+      hd2-Photoroom_53: 3316823165876851918
+      hd2-Photoroom_54: -7912668989085740367
+      hd2-Photoroom_55: -1979143811529947220
+      hd2-Photoroom_56: 8297367486865517392
+      hd2-Photoroom_57: 2871085569135625232
+      hd2-Photoroom_58: 6751812455135710632
+      hd2-Photoroom_59: 4629069265391771556
+      hd2-Photoroom_6: 8266887488348035307
+      hd2-Photoroom_60: 3350228381384931218
+      hd2-Photoroom_61: 3949550624302028004
+      hd2-Photoroom_62: 7953663603251417786
+      hd2-Photoroom_63: 7640923885591976935
+      hd2-Photoroom_64: -1585799813660757263
+      hd2-Photoroom_65: -208319827093260500
+      hd2-Photoroom_66: -1971923804519536136
+      hd2-Photoroom_67: 3235456138189539385
+      hd2-Photoroom_68: 257002059758269874
+      hd2-Photoroom_69: 23340774631755413
+      hd2-Photoroom_7: 2638833059671150002
+      hd2-Photoroom_70: -8004909309098730605
+      hd2-Photoroom_71: -9191058338002865331
+      hd2-Photoroom_72: 6071119068429580723
+      hd2-Photoroom_73: 7838298321024346606
+      hd2-Photoroom_74: -7368608016744286347
+      hd2-Photoroom_75: 6930852593027150648
+      hd2-Photoroom_76: 4928433882936863348
+      hd2-Photoroom_77: 4363906013565538749
+      hd2-Photoroom_78: 1452041646073678865
+      hd2-Photoroom_79: -848551008246936245
+      hd2-Photoroom_8: -9210187662846625605
+      hd2-Photoroom_80: -3261438788825402489
+      hd2-Photoroom_81: 8556824912860364907
+      hd2-Photoroom_82: -4628505348738416663
+      hd2-Photoroom_83: -7832510352611673436
+      hd2-Photoroom_84: -9077481918554373789
+      hd2-Photoroom_85: -5158554764317871773
+      hd2-Photoroom_86: -396916830971699443
+      hd2-Photoroom_87: 923780573367527409
+      hd2-Photoroom_88: -5277495424598649339
+      hd2-Photoroom_89: 1899084011060241188
+      hd2-Photoroom_9: 5689102346469772600
+      hd2-Photoroom_90: 8764578799422194239
+      hd2-Photoroom_91: -5098756276539471725
+      hd2-Photoroom_92: -4670893034886937665
+      hd2-Photoroom_93: 4344680621859936081
+      hd2-Photoroom_94: -2779752971758512341
+      hd2-Photoroom_95: 941716130811472336
+      hd2-Photoroom_96: 3432501497539422328
+      hd2-Photoroom_97: 2824988584424210219
+      hd2-Photoroom_98: 1593808429571306833
+      hd2-Photoroom_99: -8851007328892571655
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
