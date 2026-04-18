@@ -73,7 +73,10 @@ namespace PlayFab.PfEditor
         }
         private void Stop()
         {
-            EditorApplication.update -= Update;
+           EditorApplication.update -= Update;
+           if (_www != null){
+                _www.Dispose();
+            }
         }
 
         private float _timeCounter = 0;
