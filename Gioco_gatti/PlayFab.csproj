@@ -92,8 +92,8 @@
     <Compile Include="Assets\PlayFabSDK\Matchmaker\PlayFabMatchmakerModels.cs" />
     <Compile Include="Assets\PlayFabSDK\Client\PlayFabClientAPI.cs" />
     <Compile Include="Assets\PlayFabSDK\Matchmaker\PlayFabMatchmakerInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Multiplayer\PlayFabEvents.cs" />
     <Compile Include="Assets\PlayFabSDK\Shared\Internal\PlayFabHttp\GzipDownloadHandler.cs" />
+    <Compile Include="Assets\PlayFabSDK\Multiplayer\PlayFabEvents.cs" />
     <Compile Include="Assets\PlayFabSDK\Shared\Public\ITransportPlugin.cs" />
     <Compile Include="Assets\PlayFabSDK\Progression\PlayFabEvents.cs" />
     <Compile Include="Assets\PlayFabSDK\Economy\PlayFabEconomyModels.cs" />
@@ -107,8 +107,8 @@
     <Compile Include="Assets\PlayFabSDK\Shared\Public\PlayFabAuthenticationContext.cs" />
     <Compile Include="Assets\PlayFabSDK\CloudScript\PlayFabCloudScriptAPI.cs" />
     <Compile Include="Assets\PlayFabSDK\Matchmaker\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Admin\PlayFabEvents.cs" />
     <Compile Include="Assets\PlayFabSDK\Addon\PlayFabAddonInstanceAPI.cs" />
+    <Compile Include="Assets\PlayFabSDK\Admin\PlayFabEvents.cs" />
     <Compile Include="Assets\PlayFabSDK\Profiles\PlayFabEvents.cs" />
     <Compile Include="Assets\PlayFabSDK\Insights\PlayFabEvents.cs" />
     <Compile Include="Assets\PlayFabSDK\Addon\PlayFabAddonModels.cs" />
