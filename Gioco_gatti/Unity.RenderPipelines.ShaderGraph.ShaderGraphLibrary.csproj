@@ -18,7 +18,7 @@
     <LangVersion>9.0</LangVersion>
     <RootNamespace></RootNamespace>
     <OutputType>Library</OutputType>
-    <AssemblyName>PlayFab</AssemblyName>
+    <AssemblyName>Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary</AssemblyName>
     <TargetFramework>netstandard2.1</TargetFramework>
     <BaseDirectory>.</BaseDirectory>
   </PropertyGroup>
@@ -49,107 +49,22 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.3.11f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PlayFabSDK\Profiles\PlayFabProfilesModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Profiles\PlayFabProfilesInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Server\PlayFabServerModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Economy\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Authentication\PlayFabAuthenticationInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Groups\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Events\PlayFabEventsModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Multiplayer\PlayFabMultiplayerAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Internal\PlayFabHttp\PlayFabWebRequest.cs" />
-    <Compile Include="Assets\PlayFabSDK\Insights\PlayFabInsightsAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Internal\PlayFabHttp\PlayFabUnityHttp.cs" />
-    <Compile Include="Assets\PlayFabSDK\Admin\PlayFabAdminModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Internal\SimpleJson.cs" />
-    <Compile Include="Assets\PlayFabSDK\Admin\PlayFabAdminAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Economy\PlayFabEconomyAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Localization\PlayFabLocalizationModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Events\PlayFabEventsAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Experimentation\PlayFabExperimentationAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Authentication\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Client\PlayFabClientModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Data\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Groups\PlayFabGroupsModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Public\PlayFabApiSettings.cs" />
-    <Compile Include="Assets\PlayFabSDK\Data\PlayFabDataAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Localization\PlayFabLocalizationInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Insights\PlayFabInsightsInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Internal\ISerializer.cs" />
-    <Compile Include="Assets\PlayFabSDK\Admin\PlayFabAdminInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Public\PlayFabSettings.cs" />
-    <Compile Include="Assets\PlayFabSDK\CloudScript\PlayFabCloudScriptInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Authentication\PlayFabAuthenticationModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Public\PlayFabDataGatherer.cs" />
-    <Compile Include="Assets\PlayFabSDK\Groups\PlayFabGroupsAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Entity\ScreenTimeTracker.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Public\PluginManager.cs" />
-    <Compile Include="Assets\PlayFabSDK\Data\PlayFabDataInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Localization\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Multiplayer\PlayFabMultiplayerInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Public\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Server\PlayFabServerAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Groups\PlayFabGroupsInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Matchmaker\PlayFabMatchmakerModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Client\PlayFabClientAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Matchmaker\PlayFabMatchmakerInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Internal\PlayFabHttp\GzipDownloadHandler.cs" />
-    <Compile Include="Assets\PlayFabSDK\Multiplayer\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Public\ITransportPlugin.cs" />
-    <Compile Include="Assets\PlayFabSDK\Progression\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Economy\PlayFabEconomyModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Internal\Util.cs" />
-    <Compile Include="Assets\PlayFabSDK\Insights\PlayFabInsightsModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Client\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Addon\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Public\PluginContract.cs" />
-    <Compile Include="Assets\PlayFabSDK\Progression\PlayFabProgressionModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Models\PlayFabSharedSettings.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Public\PlayFabAuthenticationContext.cs" />
-    <Compile Include="Assets\PlayFabSDK\CloudScript\PlayFabCloudScriptAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Matchmaker\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Addon\PlayFabAddonInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Admin\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Profiles\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Insights\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Addon\PlayFabAddonModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Multiplayer\PlayFabMultiplayerModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Internal\PlayFabHttp\PlayFabHTTP.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Internal\PlayFabHttp\IPlayFabHttp.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Models\SharedModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Public\PlayFabLogger.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Public\ISerializerPlugin.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Internal\wsaReflectionExtensions.cs" />
-    <Compile Include="Assets\PlayFabSDK\CloudScript\PlayFabCloudScriptModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Localization\PlayFabLocalizationAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Profiles\PlayFabProfilesAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Data\PlayFabDataModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Internal\SingletonMonoBehaviour.cs" />
-    <Compile Include="Assets\PlayFabSDK\Progression\PlayFabProgressionInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Client\PlayFabDeviceUtil.cs" />
-    <Compile Include="Assets\PlayFabSDK\Addon\PlayFabAddonAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Server\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Internal\PlayFabErrors.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Public\PluginContractKey.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Internal\Log.cs" />
-    <Compile Include="Assets\PlayFabSDK\Matchmaker\PlayFabMatchmakerAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Progression\PlayFabProgressionAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Client\PlayFabClientInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Experimentation\PlayFabExperimentationModels.cs" />
-    <Compile Include="Assets\PlayFabSDK\Economy\PlayFabEconomyInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Internal\PlayFabHttp\PlayFabWWW.cs" />
-    <Compile Include="Assets\PlayFabSDK\Experimentation\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Experimentation\PlayFabExperimentationInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Events\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Events\PlayFabEventsInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Server\PlayFabServerInstanceAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\CloudScript\PlayFabEvents.cs" />
-    <Compile Include="Assets\PlayFabSDK\Authentication\PlayFabAuthenticationAPI.cs" />
-    <Compile Include="Assets\PlayFabSDK\Shared\Public\IPlayFabPlugin.cs" />
+    <Compile Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\DummyShaderGraphLibrary.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\PlayFabSDK\link.xml" />
-    <None Include="Assets\PlayFabSDK\PlayFab.asmdef" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\ShaderVariablesFunctions.hlsl" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\LODDitheringTransition.hlsl" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\Nature\SpeedTreeCommon.hlsl" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\PreviewVaryings.hlsl" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\Functions.hlsl" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\GeometricTools.hlsl" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\ShaderVariables.hlsl" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\Nature\SpeedTree8Wind.hlsl" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\Nature\SpeedTree9Wind.hlsl" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\ShaderConfig.cs.hlsl" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\ShaderVariablesMatrixDefsLegacyUnity.hlsl" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\PreviewPass.hlsl" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@4eb612570652\ShaderGraphLibrary\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.asmdef" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
