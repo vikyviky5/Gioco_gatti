@@ -56,6 +56,7 @@ public class PlayFabAuthManager : MonoBehaviour
     {
         DisattivaTutto();
         pannelloLogin.SetActive(true);
+        if(pannelloPassword) pannelloPassword.SetActive(true);
     }
 
     // Metti questa sul bottone "CREA ACCOUNT"
