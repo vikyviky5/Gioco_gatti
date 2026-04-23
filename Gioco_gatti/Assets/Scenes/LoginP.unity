@@ -1549,7 +1549,7 @@ GameObject:
   - component: {fileID: 542123826}
   - component: {fileID: 542123825}
   m_Layer: 5
-  m_Name: BottoneInvia (1)
+  m_Name: BottoneInviaReg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
