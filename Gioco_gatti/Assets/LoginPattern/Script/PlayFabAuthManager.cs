@@ -8,6 +8,9 @@ using TMPro;
 public class PlayFabAuthManager : MonoBehaviour
 {
     [Header("TUTTI I TUOI PANNELLI (Trascinali qui)")]
+    public GameObject pannelloIntroLogo;    
+    public GameObject bottoneAvvia;
+    public GameObject sfondoBottoni;    
     public GameObject pannelloScelta;
     public GameObject pannelloLogin;
     public GameObject pannelloScelta2;
@@ -30,7 +33,17 @@ public class PlayFabAuthManager : MonoBehaviour
     public TMP_InputField resetEmail;
 
 
-    // Questa funzione nasconde TUTTO per evitare sovrapposizioni
+    private void Start()
+    {
+        DisattivaTutto(); 
+    
+        if(pannelloIntroLogo) pannelloIntroLogo.SetActive(true);
+        if(bottoneAvvia) bottoneAvvia.SetActive(true);
+        
+        // Assicuriamoci che lo sfondo dei bottoni sia spento all'inizio
+        if(sfondoBottoni) sfondoBottoni.SetActive(false);
+    }
+
     private void DisattivaTutto()
     {
         if(pannelloScelta) pannelloScelta.SetActive(false);
@@ -41,6 +54,16 @@ public class PlayFabAuthManager : MonoBehaviour
         if(pannelloResetPassword) pannelloResetPassword.SetActive(false);
         if(resetPassword) resetPassword.SetActive(false);
         if(pannelloPassword) pannelloPassword.SetActive(false);
+    }
+
+    public void ClicSuAvvia(){
+        if(pannelloIntroLogo) pannelloIntroLogo.SetActive(false);
+        if(bottoneAvvia) bottoneAvvia.SetActive(false);
+
+        // ACCENDIAMO lo sfondo qui:
+        if(sfondoBottoni) sfondoBottoni.SetActive(true);
+
+        ApriSceltaIniziale();
     }
 
     // Metti questa sul bottone "INDIETRO" o all'avvio del gioco
@@ -106,6 +129,19 @@ public class PlayFabAuthManager : MonoBehaviour
         PlayFabClientAPI.SendAccountRecoveryEmail(request, OnResetSuccess, OnError);
     }
 
+    public void BottoneLogOut()
+    {
+        
+        PlayFabClientAPI.ForgetAllCredentials();
+
+        
+        loginNomeUtente.text = "";
+        loginPassword.text = "";
+
+        ApriSceltaIniziale();
+
+        Debug.Log("Utente disconnesso con successo.");
+    }
 
    
     void OnLoginSuccess(LoginResult result) 
@@ -123,7 +159,8 @@ public class PlayFabAuthManager : MonoBehaviour
     void OnResetSuccess(SendAccountRecoveryEmailResult result)
     {
         Debug.Log("Email di recupero inviata! Controlla la posta.");
-        ApriLogin(); // Rimanda l'utente al pannello di login
+        resetEmail.text = ""; // Pulisce il campo di testo
+        ApriSceltaIniziale(); // Ti rimanda ai bottoni iniziali
     }
 
     void OnError(PlayFabError error) 
