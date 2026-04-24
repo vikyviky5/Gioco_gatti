@@ -1620,7 +1620,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2089369789}
         m_TargetAssemblyTypeName: PlayFabAuthManager, Assembly-CSharp
-        m_MethodName: BottoneEseguiLogin
+        m_MethodName: BottoneEseguiRegistrazione
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5656,7 +5656,7 @@ CanvasRenderer:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 2089369791}
   - {fileID: 550758902}
   - {fileID: 646756486}
   - {fileID: 249733085}
-  - {fileID: 2089369791}
