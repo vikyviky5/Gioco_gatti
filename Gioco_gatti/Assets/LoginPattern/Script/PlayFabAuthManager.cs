@@ -100,7 +100,6 @@ public class PlayFabAuthManager : MonoBehaviour
     // Metti questa sul bottone "CONFERMA" dentro il pannello Login
     public void BottoneEseguiLogin() 
     {
-        Debug.Log("STO INVIANDO -> Utente: [" + loginNomeUtente.text + "] - Password: [" + loginPassword.text + "]");
         var request = new LoginWithPlayFabRequest {
             Username = loginNomeUtente.text,
             Password = loginPassword.text
@@ -111,7 +110,6 @@ public class PlayFabAuthManager : MonoBehaviour
     // Metti questa sul bottone "CONFERMA" dentro il pannello Registrazione
     public void BottoneEseguiRegistrazione() 
     {
-        Debug.Log("STO INVIANDO -> Utente: [" + loginNomeUtente.text + "] - Password: [" + loginPassword.text + "]");
         var request = new RegisterPlayFabUserRequest {
             Username = regNomeUtente.text,
             Email = regEmail.text,
