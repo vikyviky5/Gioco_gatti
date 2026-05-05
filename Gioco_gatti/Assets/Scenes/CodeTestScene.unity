@@ -119,6 +119,24 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &385883805 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5356410726927538454, guid: 878890d30799aa74daa4a885b5300fd5, type: 3}
+  m_PrefabInstance: {fileID: 5780694484669394643}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &385883810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 385883805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9348c4f41ffa93341906096551feab90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MovimentoGatto
+  velocita: 5
 --- !u!1 &1682154897
 GameObject:
   m_ObjectHideFlags: 0
@@ -311,7 +329,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5356410726927538454, guid: 878890d30799aa74daa4a885b5300fd5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 385883810}
   m_SourcePrefab: {fileID: 100100000, guid: 878890d30799aa74daa4a885b5300fd5, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
