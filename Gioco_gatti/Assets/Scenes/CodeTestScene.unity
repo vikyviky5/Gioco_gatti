@@ -129,7 +129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1474659763199488184, guid: e98c3840ec74a6d4b88dc8139b7c6514, type: 3}
       propertyPath: m_Name
-      value: idle1-removebg-preview_0 (2)
+      value: idle1-OGGETTO
       objectReference: {fileID: 0}
     - target: {fileID: 4140025096600298342, guid: e98c3840ec74a6d4b88dc8139b7c6514, type: 3}
       propertyPath: m_LocalPosition.x
@@ -174,7 +174,7 @@ PrefabInstance:
     - target: {fileID: 8101835971949400735, guid: e98c3840ec74a6d4b88dc8139b7c6514, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 580e83ac6ebd61042a9b027dfa98ec11, type: 2}
+      objectReference: {fileID: 9100000, guid: 9f639f93f0396a740b48b344e0d56406, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
