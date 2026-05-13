@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1277.3334
     height: 700.6667
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -103,7 +103,7 @@ MonoBehaviour:
   - {fileID: 13}
   - {fileID: 12}
   m_Selected: 1
-  m_LastSelected: 0
+  m_LastSelected: 2
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -264,7 +264,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: GameView
+  m_Name: SceneView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -275,13 +275,13 @@ MonoBehaviour:
     height: 358
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
-  m_ActualView: {fileID: 20}
+  m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
   - {fileID: 20}
   - {fileID: 15}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -306,7 +306,7 @@ MonoBehaviour:
     x: 1.3333334
     y: 86
     width: 346.33334
-    height: 380
+    height: 332
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -753,7 +753,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sprites
+    - Assets/Tilesets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -763,21 +763,21 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Sprites
+  - Assets/Tilesets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\vikyr\Documents\GitHub\Gioco_gatti\Gioco_gatti
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 167.99835}
+    scrollPos: {x: 0, y: 207.99835}
     m_SelectedIDs:
-    - m_Data: 53148
+    - m_Data: 54208
     m_LastClickedID:
-      m_Data: 53148
+      m_Data: 54208
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 53030
+    - m_Data: 54054
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -812,7 +812,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 53030
+    - m_Data: 54054
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -840,9 +840,9 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: 54870
-    m_LastClickedInstanceID: 54870
-    m_HadKeyboardFocusLastEvent: 1
+    - m_Data: 50724
+    m_LastClickedInstanceID: 50724
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs:
     - m_Data: 49234
     - m_Data: 48802
@@ -862,8 +862,8 @@ MonoBehaviour:
     - m_Data: 54498
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: road_rocks_blocky
-      m_OriginalName: road_rocks_blocky
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
@@ -871,10 +871,10 @@ MonoBehaviour:
         width: 0
         height: 0
       m_UserData:
-        m_Data: 54812
+        m_Data: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 5}
@@ -981,18 +981,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs:
-      - m_Data: 54870
+      m_SelectedIDs: []
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -54070
-      - m_Data: -1318
-      - m_Data: 53296
+      - m_Data: -2356
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Tilemap
-        m_OriginalName: Tilemap
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -1000,10 +997,10 @@ MonoBehaviour:
           width: 0
           height: 0
         m_UserData:
-          m_Data: 53282
+          m_Data: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 4}
@@ -1611,7 +1608,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -5.730252, y: -0.68959445, z: 1.3902643}
     speed: 2
-    m_Value: {x: -5.696133, y: -0.6406033, z: 1.3856276}
+    m_Value: {x: -5.730252, y: -0.68959445, z: 1.3902643}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1647,7 +1644,7 @@ MonoBehaviour:
       m_Size: {x: 1, y: 1}
     zGrid:
       m_Fade:
-        m_Target: 0
+        m_Target: 1
         speed: 2
         m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
@@ -1663,7 +1660,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 9.84002
     speed: 2
-    m_Value: 10.303686
+    m_Value: 9.84002
   m_Ortho:
     m_Target: 1
     speed: 2
