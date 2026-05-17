@@ -2,50 +2,51 @@ using UnityEngine;
 
 public class MovimentoGatto : MonoBehaviour
 {
-    [Header("Impostazioni")]
-    public float velocita = 5f;
-
+    public float speed = 3f;
+    private Animator animator;
     private Rigidbody2D rb;
-    private SpriteRenderer spriteRenderer;
-    private Animator anim;
+    private Vector2 input;
 
-    private Vector2 movimento;
+    // 1 = su, -1 = giù
+    private int lastVerticalDir = -1;
 
-    void Start()
+    void Awake()
     {
+        animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
-        anim = GetComponent<Animator>(); // <-- NUOVO: collega l'Animator
     }
 
     void Update()
     {
-        // 1. Leggiamo i tasti WASD
-        movimento.x = Input.GetAxisRaw("Horizontal");
-        movimento.y = Input.GetAxisRaw("Vertical");
+        float vertical = Input.GetAxisRaw("Vertical");
+        input = new Vector2(0f, vertical);
 
-        // 2. Normalizziamo (evita velocità extra in diagonale)
-        movimento = movimento.normalized;
+        // Speed per Idle/Walk
+        animator.SetFloat("Speed", Mathf.Abs(vertical));
 
-        // 3. Aggiorniamo il parametro Speed dell'Animator
-        //    Speed = 0 → Idle
-        //    Speed > 0 → Walk
-        anim.SetFloat("Speed", movimento.sqrMagnitude);
-
-        // 4. Flip del gatto (solo per sinistra/destra)
-        if (movimento.x < 0)
+        // CAMBIO DIREZIONE IMMEDIATO
+        if (vertical > 0)
         {
-            spriteRenderer.flipX = true;
+            lastVerticalDir = 1;
+            animator.Play("Walk_su");   // gira SUBITO verso su
         }
-        else if (movimento.x > 0)
+        else if (vertical < 0)
         {
-            spriteRenderer.flipX = false;
+            lastVerticalDir = -1;
+            animator.Play("Walk_giu");  // gira SUBITO verso giù
+        }
+        else
+        {
+            // fermo → idle corretto
+            if (lastVerticalDir == 1)
+                animator.Play("Idle_su");
+            else
+                animator.Play("Idle_giu");
         }
     }
 
     void FixedUpdate()
     {
-        // 5. Movimento fisico
-        rb.MovePosition(rb.position + movimento * velocita * Time.fixedDeltaTime);
+        rb.linearVelocity = input * speed;
     }
 }
